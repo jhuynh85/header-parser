@@ -1,0 +1,20 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "FCC api project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhuynh85/header-parser.git"
+  },
+  "author": "Joseph Huynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhuynh85/header-parser/issues"
+  },
+  "homepage": "https://github.com/jhuynh85/header-parser#readme"
+}
