@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jhuynh85/header-parser/issues"
   },
-  "homepage": "https://github.com/jhuynh85/header-parser#readme"
+  "homepage": "https://github.com/jhuynh85/header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
